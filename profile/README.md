@@ -5,7 +5,7 @@ village (함께 사용하는 내 물품 대여서비스 빌리지)
 
 ![image](https://user-images.githubusercontent.com/121232601/236824690-a57b0033-abf3-4db0-947c-d7cb301a5aff.png)
 
-##목차
+## 📋 목차
 
 1. [**프로젝트 기간**](#1) 
 2. [**서비스 소개**](#2) 
@@ -19,6 +19,7 @@ village (함께 사용하는 내 물품 대여서비스 빌리지)
 
 
 <div id="1"></div>
+
 ## 📅 프로젝트 기간
 ### 2023.03.31 ~ 2023.05.12
 - 기획 및 설계 : 23.03.31 ~ 23.04.03
@@ -30,6 +31,7 @@ village (함께 사용하는 내 물품 대여서비스 빌리지)
 
 
 <div id="2"></div>
+
 ## 🔍 서비스 소개
 Village는 지역 및 위치서비스 기반 주변에서 원하는 제품들을 보다 합리적으로 간편하게 대여할 수 있도록 도와주는 서비스입니다.
 
@@ -42,6 +44,7 @@ Village는 지역 및 위치서비스 기반 주변에서 원하는 제품들을
 
 
 <div id="3"></div>
+
 ## 📲 서비스 주요기능
 
 👌 언제든지 부담없이 빌리지  
@@ -57,6 +60,7 @@ Village는 지역 및 위치서비스 기반 주변에서 원하는 제품들을
 
 
 <div id="4"></div>
+
 ## 👩‍👩‍👧‍👧 서비스 개발 멤버 소개
 <table>
     <tr><td height="140px" align="center"> <a href=""https://github.com/Dongckim">
@@ -76,6 +80,7 @@ Village는 지역 및 위치서비스 기반 주변에서 원하는 제품들을
 
 
 <div id="5"></div>
+
 ## 🛠 기술 스택
 ### Front-End
 <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>  
@@ -106,6 +111,7 @@ Village는 지역 및 위치서비스 기반 주변에서 원하는 제품들을
 
 
 <div id="6"></div>
+
 ## |[📋 서비스 브로슈어](https://www.notion.so/Village-3-49ceba9bbdfc45a19f2fc5976f7815bc)|[✅ API 명세서](https://www.notion.so/0a9c2192a23e418092dc8b2ed15b49a8?v=79bec9a5f79b4c948b05986582fcf0f1)|
 
 
@@ -113,5 +119,6 @@ Village는 지역 및 위치서비스 기반 주변에서 원하는 제품들을
 
 
 <div id="7"></div>
+
 ## 🌏 시스템 아키텍쳐
 ![image](https://user-images.githubusercontent.com/121232601/236835470-e785e353-e284-45ad-9e4e-4c16101fabb1.png)
