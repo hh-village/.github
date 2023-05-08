@@ -56,7 +56,14 @@ Village는 지역 및 위치서비스 기반 주변에서 원하는 제품들을
     </tr>
 <table>
 
-## 🛠 기술 스택 
+## 🛠 기술 스택
+### Front-End
+<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>  
+<img src="https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white"/> <img src="https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/> <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-Decoder-FF6C37?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/react-datepicker-61DAFB?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/react-observer-61DAFB?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/stomp-000000?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/sockJS-F7DF1E?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/nanoid-3DDC84?style=flat-square&logoColor=white"/>  
+<img src="https://img.shields.io/badge/AWS-CLI-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/> <img src="https://img.shields.io/badge/CloudFront-527FFF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Route 53-FF6C37?style=flat-square&logoColor=white">
+
+### Back-End
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
@@ -77,8 +84,6 @@ Village는 지역 및 위치서비스 기반 주변에서 원하는 제품들을
 
 ## |[📋 서비스 브로슈어](https://www.notion.so/Village-3-49ceba9bbdfc45a19f2fc5976f7815bc)|[✅ API 명세서](https://www.notion.so/0a9c2192a23e418092dc8b2ed15b49a8?v=79bec9a5f79b4c948b05986582fcf0f1)|
 
-## 🖥️ ERD
-![image](https://user-images.githubusercontent.com/121232601/236845455-e20bfe11-30aa-4f07-81b8-681c877e34a8.png)
 
 ## 🌏 시스템 아키텍쳐
 ![image](https://user-images.githubusercontent.com/121232601/236835470-e785e353-e284-45ad-9e4e-4c16101fabb1.png)
