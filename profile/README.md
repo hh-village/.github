@@ -15,6 +15,10 @@ village (함께 사용하는 내 물품 대여서비스 빌리지)
 6. [**서비스 브로슈어 | API 명세서**](#6)
 7. [**시스템 아키텍쳐**](#7) 
 
+<br/>
+
+
+<div id="1"></div>
 ## 📅 프로젝트 기간
 ### 2023.03.31 ~ 2023.05.12
 - 기획 및 설계 : 23.03.31 ~ 23.04.03
@@ -22,6 +26,10 @@ village (함께 사용하는 내 물품 대여서비스 빌리지)
 - 버그 수정 ,피드백 개선 및 산출물 정리 : 23.04.20 ~ 23.05.11
 - 최종 PT : 23.05.12
 
+<br/>
+
+
+<div id="2"></div>
 ## 🔍 서비스 소개
 Village는 지역 및 위치서비스 기반 주변에서 원하는 제품들을 보다 합리적으로 간편하게 대여할 수 있도록 도와주는 서비스입니다.
 
@@ -30,6 +38,10 @@ Village는 지역 및 위치서비스 기반 주변에서 원하는 제품들을
 📌 Village를 이용해 합리적으로 빌려주고 빌려보세요📌
 #### 서비스 이용해보기 👉 https://village99.store/
 
+<br/>
+
+
+<div id="3"></div>
 ## 📲 서비스 주요기능
 
 👌 언제든지 부담없이 빌리지  
@@ -41,6 +53,10 @@ Village는 지역 및 위치서비스 기반 주변에서 원하는 제품들을
 👌 유저간 1대 1채팅으로 정확하고 안전하게  
 유저간 직접 대화하여 예약의 세부내용과 장소 등 다양한 정보를 직접 주고 받을 수 있습니다.
 
+<br/>
+
+
+<div id="4"></div>
 ## 👩‍👩‍👧‍👧 서비스 개발 멤버 소개
 <table>
     <tr><td height="140px" align="center"> <a href=""https://github.com/Dongckim">
@@ -56,6 +72,10 @@ Village는 지역 및 위치서비스 기반 주변에서 원하는 제품들을
     </tr>
 <table>
 
+<br/>
+
+
+<div id="5"></div>
 ## 🛠 기술 스택
 ### Front-End
 <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>  
@@ -82,8 +102,16 @@ Village는 지역 및 위치서비스 기반 주변에서 원하는 제품들을
 
 <img src="https://img.shields.io/badge/https-527FFF?style=flat-square"> <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/>  <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 
+<br/>
+
+
+<div id="6"></div>
 ## |[📋 서비스 브로슈어](https://www.notion.so/Village-3-49ceba9bbdfc45a19f2fc5976f7815bc)|[✅ API 명세서](https://www.notion.so/0a9c2192a23e418092dc8b2ed15b49a8?v=79bec9a5f79b4c948b05986582fcf0f1)|
 
 
+<br/>
+
+
+<div id="7"></div>
 ## 🌏 시스템 아키텍쳐
 ![image](https://user-images.githubusercontent.com/121232601/236835470-e785e353-e284-45ad-9e4e-4c16101fabb1.png)
